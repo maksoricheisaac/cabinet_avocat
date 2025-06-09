@@ -12,7 +12,8 @@ import {
   CheckCircle,
   Loader,
   ExternalLink,
-  Navigation
+  Navigation,
+  Car
 } from 'lucide-react';
 
 const Contact: React.FC = () => {
